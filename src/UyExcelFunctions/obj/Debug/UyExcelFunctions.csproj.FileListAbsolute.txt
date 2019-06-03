@@ -1,0 +1,6 @@
+D:\Projects\DesktopApps\UyExcelFunctions\UyExcelFunctions\bin\Debug\UyExcelFunctions.dll
+D:\Projects\DesktopApps\UyExcelFunctions\UyExcelFunctions\bin\Debug\UyExcelFunctions.pdb
+D:\Projects\DesktopApps\UyExcelFunctions\UyExcelFunctions\bin\Debug\ExcelDna.Integration.dll
+D:\Projects\DesktopApps\UyExcelFunctions\UyExcelFunctions\obj\Debug\UyExcelFunctions.csprojResolveAssemblyReference.cache
+D:\Projects\DesktopApps\UyExcelFunctions\UyExcelFunctions\obj\Debug\UyExcelFunctions.dll
+D:\Projects\DesktopApps\UyExcelFunctions\UyExcelFunctions\obj\Debug\UyExcelFunctions.pdb
