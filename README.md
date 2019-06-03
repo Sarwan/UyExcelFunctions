@@ -1,2 +1,2 @@
 # UyExcelFunctions
-Some Function Extention for MS Office Excell
+Some Function Extention for MS Office Excel
